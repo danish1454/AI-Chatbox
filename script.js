@@ -1,4 +1,4 @@
-import {API_KEY, API_URL} from './api.js';
+import {API_KEY, API_URL} from './api.js';  // import api keys and url from another .js file
 
 const chatMessages = document.getElementById('chat-messages');
 const userInput = document.getElementById('user-input');
