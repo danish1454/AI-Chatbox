@@ -102,8 +102,3 @@ You can:
 
 Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
 
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
